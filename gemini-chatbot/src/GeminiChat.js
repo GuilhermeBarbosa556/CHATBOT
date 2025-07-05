@@ -104,7 +104,7 @@ const Chatbot = () => {
   return (
     <div className="flex flex-col h-screen bg-gray-100">
       <header className="bg-blue-600 text-white p-4 shadow-md flex justify-between items-center">
-        <h1 className="text-xl font-bold">Chatbot com Gemini</h1>
+        <h1 className="text-xl font-bold">Miranda 2.0 do Guilhermimplay</h1>
         <div className="flex items-center space-x-4">
           {mensagens.length > 0 && (
             <button 
